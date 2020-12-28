@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DGP", "JwtAuthDemo\DGP.csproj", "{4E18EEF3-99D2-414A-9AA9-4F762CC365B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DGP", "DGP\DGP.csproj", "{4E18EEF3-99D2-414A-9AA9-4F762CC365B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
