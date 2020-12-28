@@ -1,0 +1,4 @@
+C:\Users\Cristopher Solano\Downloads\JwtAuthDemo-master\JwtAuthDemo-master\webapi\JwtAuthDemo.IntegrationTests\obj\Debug\netcoreapp3.1\JwtAuthDemo.IntegrationTests.csprojAssemblyReference.cache
+C:\Users\Cristopher Solano\Downloads\JwtAuthDemo-master\JwtAuthDemo-master\webapi\JwtAuthDemo.IntegrationTests\obj\Debug\netcoreapp3.1\JwtAuthDemo.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\Cristopher Solano\Downloads\JwtAuthDemo-master\JwtAuthDemo-master\webapi\JwtAuthDemo.IntegrationTests\obj\Debug\netcoreapp3.1\JwtAuthDemo.IntegrationTests.AssemblyInfo.cs
+C:\Users\Cristopher Solano\Downloads\JwtAuthDemo-master\JwtAuthDemo-master\webapi\JwtAuthDemo.IntegrationTests\obj\Debug\netcoreapp3.1\JwtAuthDemo.IntegrationTests.csproj.CoreCompileInputs.cache
